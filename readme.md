@@ -5,4 +5,4 @@ alias:
 tags: Linux
 ---
 
-# linux custom installation
+# linux custom installation1
