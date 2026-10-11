@@ -38,6 +38,5 @@ org.libreoffice.LibreOffice
 org.libretro.RetroArch
 org.recoll.recoll
 org.sqlitebrowser.sqlitebrowser
-org.telegram.desktop
 org.videolan.VLC
 page.codeberg.libre_menu_editor.LibreMenuEditor

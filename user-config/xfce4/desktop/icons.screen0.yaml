@@ -19,10 +19,9 @@ configs:
       width: 1920
       height: 1080
   icons:
-    "0186f1e5-4a1e-49a5-9c0f-a106a71664a8":
+    "/home/lwh/Desktop/\uCDE8\uBBF8":
       row: 0
-      col: 0
-      last_seen: 1777696009830381
+      col: 1
     "/home/lwh/Desktop/IMG_20260219_131220.jpg":
       row: 0
       col: 0
@@ -33,7 +32,7 @@ configs:
     "/home/lwh/Desktop/\uC2A4\uD06C\uB9B0\uC0F7_2026-10-08_12-03-52.png":
       row: 0
       col: 0
-    "/home/lwh/Desktop/home":
+    "/home/lwh/Desktop/Camera":
       row: 0
       col: 0
     "/home/lwh/Desktop/1\uC2A4\uD06C\uB9B0\uC0F7_2026-10-08_12-20-54.png":
@@ -42,7 +41,7 @@ configs:
     "/home/lwh/Desktop/crontab":
       row: 2
       col: 0
-    "/home/lwh/Desktop/Camera":
+    "/home/lwh/Desktop/home":
       row: 0
       col: 0
     "/home/lwh/Desktop/antigravity":
@@ -65,12 +64,11 @@ configs:
       row: 0
       col: 0
       last_seen: 1777695255362344
-    "/home/lwh/Pictures":
-      row: 2
-      col: 0
-      last_seen: 1785054051241630
-    "/home/lwh/Desktop/bin":
+    "/home/lwh/Desktop/.desktopfolder":
       row: 6
+      col: 0
+    "/home/lwh/Desktop/electrum-4.5.8-x86_64.AppImage":
+      row: 0
       col: 0
     "/home/lwh/Desktop/Recordings":
       row: 0
@@ -98,24 +96,25 @@ configs:
     "/home/lwh/Desktop/\uCC3D\uC6D0 \uAC00\uC815\uBC95\uC6D0.png":
       row: 0
       col: 0
-    "/home/lwh/Desktop/.desktopfolder":
-      row: 6
+    "/home/lwh/Pictures":
+      row: 2
       col: 0
-    "/home/lwh/Desktop/electrum-4.5.8-x86_64.AppImage":
+      last_seen: 1785054051241630
+    "/home/lwh/Desktop/\uC2A4\uD06C\uB9B0\uC0F7_2026-10-02_14-46-58.png":
       row: 0
       col: 0
     "/home/lwh/Desktop/Download":
       row: 0
       col: 0
+    "/home/lwh/Desktop/Qwen3.5-4B-Q4_K_M.gguf":
+      row: 6
+      col: 0
     "D6F5-D4D1":
       row: 0
       col: 0
       last_seen: 1777696112014171
-    "/home/lwh/Desktop/Qwen3.5-4B-Q4_K_M.gguf":
+    "/home/lwh/Desktop/bin":
       row: 6
-      col: 0
-    "/home/lwh/Desktop/\uC2A4\uD06C\uB9B0\uC0F7_2026-10-02_14-46-58.png":
-      row: 0
       col: 0
     "/home/lwh/Desktop/desktop_local":
       row: 7
@@ -165,28 +164,27 @@ configs:
     "/home/lwh/Desktop/\uC2A4\uD06C\uB9B0\uC0F7_2026-10-07_18-57-39.png":
       row: 0
       col: 0
-    "/home/lwh/Desktop/001_Brain_Notes":
-      row: 6
+    "/":
+      row: 1
       col: 0
-    "/home/lwh/Desktop/gemini_restore.sh":
+    "/home/lwh/Desktop/001_Brain_Notes":
       row: 6
       col: 0
     "/home/lwh/Desktop/\uCC9C\uC548_\uC5D0\uB374\uD558\uC6B0\uC2A4_\uC774\uC0AC_251219":
       row: 10
       col: 0
-    "32FB-F73F":
-      row: 0
+    "/home/lwh/Desktop/hermes_prompt.txt":
+      row: 7
       col: 0
-      last_seen: 1786001486252579
     "trash:///":
       row: 2
       col: 0
     "/home/lwh/Desktop/etc":
       row: 6
       col: 0
-    "/home/lwh/Desktop/\uCDE8\uBBF8":
-      row: 0
-      col: 1
+    "/home/lwh/Desktop/gemini_restore.sh":
+      row: 6
+      col: 0
     "0492-3AF4":
       row: 1
       col: 0
@@ -195,12 +193,14 @@ configs:
       row: 9
       col: 0
       last_seen: 1785055289103995
-    "/home/lwh/Desktop/hermes_prompt.txt":
-      row: 7
+    "0186f1e5-4a1e-49a5-9c0f-a106a71664a8":
+      row: 0
       col: 0
-    "/":
-      row: 1
+      last_seen: 1777696009830381
+    "32FB-F73F":
+      row: 0
       col: 0
+      last_seen: 1786001486252579
     "/home/lwh/Desktop/Pictures":
       row: 7
       col: 0
