@@ -4,7 +4,7 @@
 # @USAGE: gemini_restore.sh 
 set -u
 
-BACKUP_DIR="/home/lwh/git/init_debian"
+BACKUP_DIR="/home/lwh/git/dotfiles"
 TARGET_USER="lwh"
  
 SYSTEM_PATHS=(

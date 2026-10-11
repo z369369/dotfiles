@@ -45,7 +45,7 @@ SHELL_PATHS=(
     ".xprofile"
 )
 
-BACKUP_DIR="/home/lwh/git/init_debian"
+BACKUP_DIR="/home/lwh/git/dotfiles"
 echo "=========================================="
 echo " 고도화된 시스템 구성 백업을 시작합니다."
 echo "=========================================="
