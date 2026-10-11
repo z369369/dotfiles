@@ -5,4 +5,4 @@ alias:
 tags: Linux
 ---
 
-# Debian xfce custom installation
+# linux custom installation

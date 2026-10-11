@@ -119,7 +119,7 @@ sudo chown -R "$(whoami):$(whoami)" "$BACKUP_DIR/etc"
 echo ""
 
 #dont delete under command 
-cd ~/git/init_debian
+cd ~/git/dotfiles
 git add .
 git commit -m "backup"
 git push
