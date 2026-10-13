@@ -19,9 +19,12 @@ configs:
       width: 1920
       height: 1080
   icons:
-    "/home/lwh/Desktop/\uCDE8\uBBF8":
-      row: 0
-      col: 1
+    "/home/lwh/Desktop/etc":
+      row: 6
+      col: 0
+    "/":
+      row: 1
+      col: 0
     "/home/lwh/Desktop/IMG_20260219_131220.jpg":
       row: 0
       col: 0
@@ -32,11 +35,11 @@ configs:
     "/home/lwh/Desktop/\uC2A4\uD06C\uB9B0\uC0F7_2026-10-08_12-03-52.png":
       row: 0
       col: 0
-    "/home/lwh/Desktop/Camera":
-      row: 0
-      col: 0
     "/home/lwh/Desktop/1\uC2A4\uD06C\uB9B0\uC0F7_2026-10-08_12-20-54.png":
       row: 1
+      col: 0
+    "/home/lwh/Desktop/Music":
+      row: 0
       col: 0
     "/home/lwh/Desktop/crontab":
       row: 2
@@ -51,7 +54,7 @@ configs:
       row: 1
       col: 0
       last_seen: 1786523734922990
-    "/home/lwh/Desktop/Music":
+    "/home/lwh/Desktop/Camera":
       row: 0
       col: 0
     "/home/lwh/Desktop/setting_agent.txt":
@@ -86,22 +89,21 @@ configs:
       row: 0
       col: 0
       last_seen: 1786744532851558
+    "/home/lwh/Desktop/\uCC3D\uC6D0 \uAC00\uC815\uBC95\uC6D0.png":
+      row: 0
+      col: 0
+    "/home/lwh/Desktop/OpenCamera":
+      row: 7
+      col: 0
     "SAMSUNG Android":
       row: 3
       col: 0
       last_seen: 1789038308475600
-    "/home/lwh/Desktop/OpenCamera":
-      row: 7
-      col: 0
-    "/home/lwh/Desktop/\uCC3D\uC6D0 \uAC00\uC815\uBC95\uC6D0.png":
-      row: 0
-      col: 0
-    "/home/lwh/Pictures":
-      row: 2
-      col: 0
-      last_seen: 1785054051241630
     "/home/lwh/Desktop/\uC2A4\uD06C\uB9B0\uC0F7_2026-10-02_14-46-58.png":
       row: 0
+      col: 0
+    "/home/lwh/Desktop/bin":
+      row: 6
       col: 0
     "/home/lwh/Desktop/Download":
       row: 0
@@ -113,9 +115,10 @@ configs:
       row: 0
       col: 0
       last_seen: 1777696112014171
-    "/home/lwh/Desktop/bin":
-      row: 6
+    "/home/lwh/Pictures":
+      row: 2
       col: 0
+      last_seen: 1785054051241630
     "/home/lwh/Desktop/desktop_local":
       row: 7
       col: 0
@@ -125,6 +128,10 @@ configs:
     "/home/lwh/Desktop/gemini_backup.sh":
       row: 0
       col: 0
+    "0186f1e5-4a1e-49a5-9c0f-a106a71664a8":
+      row: 0
+      col: 0
+      last_seen: 1777696009830381
     "/home/lwh/Videos":
       row: 3
       col: 0
@@ -135,6 +142,9 @@ configs:
     "/home/lwh":
       row: 0
       col: 0
+    "/home/lwh/Desktop/gemini_restore.sh":
+      row: 6
+      col: 0
     "/home/lwh/Music":
       row: 1
       col: 0
@@ -142,18 +152,14 @@ configs:
     "/home/lwh/Desktop/desktop_usr":
       row: 8
       col: 0
-    "/home/lwh/Documents":
+    "/home/lwh/Desktop/\uC2A4\uD06C\uB9B0\uC0F7_2026-10-12_01-12-43.png":
       row: 0
       col: 0
-      last_seen: 1785054051240475
     "/home/lwh/Desktop/desktop_flatpak":
       row: 4
       col: 0
     "/home/lwh/Desktop/Videos":
       row: 6
-      col: 0
-    "/home/lwh/Desktop/Screenshots":
-      row: 9
       col: 0
     "/home/lwh/Desktop/50_Clipping":
       row: 6
@@ -164,46 +170,46 @@ configs:
     "/home/lwh/Desktop/\uC2A4\uD06C\uB9B0\uC0F7_2026-10-07_18-57-39.png":
       row: 0
       col: 0
-    "/":
-      row: 1
-      col: 0
     "/home/lwh/Desktop/001_Brain_Notes":
       row: 6
       col: 0
-    "/home/lwh/Desktop/\uCC9C\uC548_\uC5D0\uB374\uD558\uC6B0\uC2A4_\uC774\uC0AC_251219":
-      row: 10
-      col: 0
-    "/home/lwh/Desktop/hermes_prompt.txt":
+    "/home/lwh/Desktop/Pictures":
       row: 7
       col: 0
-    "trash:///":
-      row: 2
-      col: 0
-    "/home/lwh/Desktop/etc":
-      row: 6
-      col: 0
-    "/home/lwh/Desktop/gemini_restore.sh":
-      row: 6
-      col: 0
-    "0492-3AF4":
-      row: 1
-      col: 0
-      last_seen: 1786523725772269
-    "a5ec5a70-2da9-4526-9707-3e241619daee":
-      row: 9
-      col: 0
-      last_seen: 1785055289103995
-    "0186f1e5-4a1e-49a5-9c0f-a106a71664a8":
+    "/home/lwh/Documents":
       row: 0
       col: 0
-      last_seen: 1777696009830381
+      last_seen: 1785054051240475
     "32FB-F73F":
       row: 0
       col: 0
       last_seen: 1786001486252579
-    "/home/lwh/Desktop/Pictures":
+    "/home/lwh/Desktop/\uC2A4\uD06C\uB9B0\uC0F7_2026-10-12_13-51-23.png":
+      row: 1
+      col: 0
+    "/home/lwh/Desktop/Screenshots":
+      row: 9
+      col: 0
+    "trash:///":
+      row: 2
+      col: 0
+    "/home/lwh/Desktop/\uCC9C\uC548_\uC5D0\uB374\uD558\uC6B0\uC2A4_\uC774\uC0AC_251219":
+      row: 10
+      col: 0
+    "a5ec5a70-2da9-4526-9707-3e241619daee":
+      row: 9
+      col: 0
+      last_seen: 1785055289103995
+    "/home/lwh/Desktop/hermes_prompt.txt":
       row: 7
       col: 0
+    "/home/lwh/Desktop/\uCDE8\uBBF8":
+      row: 0
+      col: 1
+    "0492-3AF4":
+      row: 1
+      col: 0
+      last_seen: 1786523725772269
     "F5E1-6BEE":
       row: 0
       col: 0
