@@ -28,7 +28,7 @@
 set -uo pipefail
 
 SRC_DIR="/home/lwh/phone/Pictures/힣_Brain_Notes"
-NOTES_DIR="/home/lwh/Documents/001_Brain_Notes"
+NOTES_DIR="/home/lwh/phone/Documents/001_Brain_Notes"
 BACKUP_DIR="/home/lwh/phone/Pictures/힣_Brain_Notes/backup"
 
 # ---- 사전 검사 ----

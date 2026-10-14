@@ -5,9 +5,9 @@
 # @STATUS: 사용중
 
 # 1. 경로 설정
-SRC_DIR="/home/lwh/Documents/001_Brain_Notes/zz_hub/attach"
-DEST_DIR="/home/lwh/Pictures/힣_Brain_Notes"
-NOTES_DIR="/home/lwh/Documents/001_Brain_Notes"
+SRC_DIR="/home/lwh/phone/Documents/001_Brain_Notes/zz_hub/attach"
+DEST_DIR="/home/lwh/phone/Pictures/힣_Brain_Notes"
+NOTES_DIR="/home/lwh/phone/Documents/001_Brain_Notes"
 
 # Target 디렉토리 생성
 mkdir -p "$DEST_DIR"

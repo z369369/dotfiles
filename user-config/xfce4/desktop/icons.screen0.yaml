@@ -19,198 +19,201 @@ configs:
       width: 1920
       height: 1080
   icons:
-    "/home/lwh/Desktop/etc":
-      row: 6
-      col: 0
-    "/":
-      row: 1
-      col: 0
     "/home/lwh/Desktop/IMG_20260219_131220.jpg":
       row: 0
       col: 0
-    "d85f6c16-179b-40fd-9ed5-c7fceb325aed":
-      row: 6
-      col: 0
-      last_seen: 1781735798831862
-    "/home/lwh/Desktop/\uC2A4\uD06C\uB9B0\uC0F7_2026-10-08_12-03-52.png":
+    "/home/lwh/Desktop/\uC2A4\uD06C\uB9B0\uC0F7_2026-10-07_18-57-39.png":
       row: 0
-      col: 0
-    "/home/lwh/Desktop/1\uC2A4\uD06C\uB9B0\uC0F7_2026-10-08_12-20-54.png":
-      row: 1
-      col: 0
-    "/home/lwh/Desktop/Music":
-      row: 0
-      col: 0
-    "/home/lwh/Desktop/crontab":
-      row: 2
-      col: 0
-    "/home/lwh/Desktop/home":
-      row: 0
-      col: 0
-    "/home/lwh/Desktop/antigravity":
-      row: 0
-      col: 0
-    "053A-AC32":
-      row: 1
-      col: 0
-      last_seen: 1786523734922990
-    "/home/lwh/Desktop/Camera":
-      row: 0
-      col: 0
-    "/home/lwh/Desktop/setting_agent.txt":
-      row: 6
-      col: 0
-    "/home/lwh/Desktop/prompt.txt":
-      row: 8
-      col: 0
-    "2025-09-06-12-06-13-00":
-      row: 0
-      col: 0
-      last_seen: 1777695255362344
-    "/home/lwh/Desktop/.desktopfolder":
-      row: 6
-      col: 0
-    "/home/lwh/Desktop/electrum-4.5.8-x86_64.AppImage":
-      row: 0
-      col: 0
-    "/home/lwh/Desktop/Recordings":
-      row: 0
-      col: 0
-    "/home/lwh/Desktop/user.sav":
-      row: 0
-      col: 0
-    "/home/lwh/Desktop/autostart":
-      row: 5
-      col: 0
-    "/home/lwh/Desktop/\uC2A4\uD06C\uB9B0\uC0F7_2026-10-02_15-16-52.png":
-      row: 0
-      col: 0
-    "realme X50 5G":
-      row: 0
-      col: 0
-      last_seen: 1786744532851558
-    "/home/lwh/Desktop/\uCC3D\uC6D0 \uAC00\uC815\uBC95\uC6D0.png":
-      row: 0
-      col: 0
-    "/home/lwh/Desktop/OpenCamera":
-      row: 7
       col: 0
     "SAMSUNG Android":
       row: 3
       col: 0
       last_seen: 1789038308475600
-    "/home/lwh/Desktop/\uC2A4\uD06C\uB9B0\uC0F7_2026-10-02_14-46-58.png":
+    "/home/lwh/Desktop/electrum-4.5.8-x86_64.AppImage":
       row: 0
       col: 0
-    "/home/lwh/Desktop/bin":
+    "/home/lwh/Desktop/.desktopfolder":
       row: 6
       col: 0
-    "/home/lwh/Desktop/Download":
+    "/home/lwh/Desktop/fss_2026-10-14_08-11-02.png":
+      row: 0
+      col: 0
+    "/home/lwh/Documents":
+      row: 0
+      col: 0
+      last_seen: 1785054051240475
+    "/home/lwh/Desktop/50_Clipping":
+      row: 6
+      col: 0
+    "/home/lwh/Desktop/etc":
+      row: 6
+      col: 0
+    "/home/lwh/Desktop/\uC2A4\uD06C\uB9B0\uC0F7_2026-10-12_13-51-23.png":
+      row: 1
+      col: 0
+    "/home/lwh":
       row: 0
       col: 0
     "/home/lwh/Desktop/Qwen3.5-4B-Q4_K_M.gguf":
       row: 6
       col: 0
-    "D6F5-D4D1":
-      row: 0
+    "/home/lwh/Desktop/gemini_restore.sh":
+      row: 6
       col: 0
-      last_seen: 1777696112014171
     "/home/lwh/Pictures":
       row: 2
       col: 0
       last_seen: 1785054051241630
-    "/home/lwh/Desktop/desktop_local":
-      row: 7
-      col: 0
-    "/home/lwh/Desktop/Screen recordings":
-      row: 8
-      col: 0
-    "/home/lwh/Desktop/gemini_backup.sh":
+    "/home/lwh/Desktop/\uCC3D\uC6D0 \uAC00\uC815\uBC95\uC6D0.png":
       row: 0
       col: 0
     "0186f1e5-4a1e-49a5-9c0f-a106a71664a8":
       row: 0
       col: 0
       last_seen: 1777696009830381
-    "/home/lwh/Videos":
-      row: 3
+    "/home/lwh/Desktop/1\uC2A4\uD06C\uB9B0\uC0F7_2026-10-08_12-20-54.png":
+      row: 1
       col: 0
-      last_seen: 1785054051242001
     "/home/lwh/Desktop/Eden-Linux-v0.2.1-game_emulator.AppImage":
       row: 1
       col: 0
-    "/home/lwh":
+    "/home/lwh/Desktop/gemini_backup.sh":
       row: 0
       col: 0
-    "/home/lwh/Desktop/gemini_restore.sh":
+    "/home/lwh/Desktop/Screenshots":
+      row: 9
+      col: 0
+    "/home/lwh/Desktop/\uC2A4\uD06C\uB9B0\uC0F7_2026-10-02_15-16-52.png":
+      row: 0
+      col: 0
+    "/home/lwh/Desktop/hermes_prompt.txt":
+      row: 7
+      col: 0
+    "/home/lwh/Desktop/Music":
+      row: 0
+      col: 0
+    "053A-AC32":
+      row: 1
+      col: 0
+      last_seen: 1786523734922990
+    "/home/lwh/Desktop/Screen recordings":
+      row: 8
+      col: 0
+    "F5E1-6BEE":
+      row: 0
+      col: 0
+      last_seen: 1777696655576554
+    "/home/lwh/Desktop/Videos":
+      row: 6
+      col: 0
+    "/":
+      row: 1
+      col: 0
+    "/home/lwh/Desktop/antigravity":
+      row: 0
+      col: 0
+    "/home/lwh/Desktop/\uC2A4\uD06C\uB9B0\uC0F7_2026-10-08_12-03-52.png":
+      row: 0
+      col: 0
+    "/home/lwh/Desktop/Camera":
+      row: 0
+      col: 0
+    "0492-3AF4":
+      row: 1
+      col: 0
+      last_seen: 1786523725772269
+    "/home/lwh/Desktop/prompt.txt":
+      row: 8
+      col: 0
+    "realme X50 5G":
+      row: 0
+      col: 0
+      last_seen: 1786744532851558
+    "2025-09-06-12-06-13-00":
+      row: 0
+      col: 0
+      last_seen: 1777695255362344
+    "/home/lwh/Desktop/\uCDE8\uBBF8":
+      row: 0
+      col: 1
+    "/home/lwh/Desktop/desktop_usr":
+      row: 8
+      col: 0
+    "D6F5-D4D1":
+      row: 0
+      col: 0
+      last_seen: 1777696112014171
+    "trash:///":
+      row: 2
+      col: 0
+    "/home/lwh/Desktop/Recordings":
+      row: 0
+      col: 0
+    "/home/lwh/Desktop/\uC2A4\uD06C\uB9B0\uC0F7_2026-10-02_14-46-58.png":
+      row: 0
+      col: 0
+    "/home/lwh/Desktop/bin":
+      row: 6
+      col: 0
+    "/home/lwh/Desktop/desktop_flatpak":
+      row: 4
+      col: 0
+    "/home/lwh/Desktop/setting_agent.txt":
+      row: 6
+      col: 0
+    "/home/lwh/Desktop/home":
+      row: 0
+      col: 0
+    "d85f6c16-179b-40fd-9ed5-c7fceb325aed":
+      row: 6
+      col: 0
+      last_seen: 1781735798831862
+    "/home/lwh/Desktop/autostart":
+      row: 5
+      col: 0
+    "/home/lwh/Desktop/\uC2A4\uD06C\uB9B0\uC0F7_2026-10-12_01-12-43.png":
+      row: 0
+      col: 0
+    "/home/lwh/Desktop/001_Brain_Notes":
       row: 6
       col: 0
     "/home/lwh/Music":
       row: 1
       col: 0
       last_seen: 1785054051241246
-    "/home/lwh/Desktop/desktop_usr":
-      row: 8
+    "a5ec5a70-2da9-4526-9707-3e241619daee":
+      row: 9
       col: 0
-    "/home/lwh/Desktop/\uC2A4\uD06C\uB9B0\uC0F7_2026-10-12_01-12-43.png":
+      last_seen: 1785055289103995
+    "/home/lwh/Desktop/user.sav":
       row: 0
       col: 0
-    "/home/lwh/Desktop/desktop_flatpak":
-      row: 4
+    "/home/lwh/Videos":
+      row: 3
       col: 0
-    "/home/lwh/Desktop/Videos":
-      row: 6
-      col: 0
-    "/home/lwh/Desktop/50_Clipping":
-      row: 6
-      col: 0
-    "/home/lwh/Desktop/clipping":
+      last_seen: 1785054051242001
+    "/home/lwh/Desktop/Download":
       row: 0
-      col: 0
-    "/home/lwh/Desktop/\uC2A4\uD06C\uB9B0\uC0F7_2026-10-07_18-57-39.png":
-      row: 0
-      col: 0
-    "/home/lwh/Desktop/001_Brain_Notes":
-      row: 6
       col: 0
     "/home/lwh/Desktop/Pictures":
       row: 7
       col: 0
-    "/home/lwh/Documents":
+    "/home/lwh/Desktop/clipping":
       row: 0
       col: 0
-      last_seen: 1785054051240475
     "32FB-F73F":
       row: 0
       col: 0
       last_seen: 1786001486252579
-    "/home/lwh/Desktop/\uC2A4\uD06C\uB9B0\uC0F7_2026-10-12_13-51-23.png":
-      row: 1
-      col: 0
-    "/home/lwh/Desktop/Screenshots":
-      row: 9
-      col: 0
-    "trash:///":
+    "/home/lwh/Desktop/crontab":
       row: 2
       col: 0
     "/home/lwh/Desktop/\uCC9C\uC548_\uC5D0\uB374\uD558\uC6B0\uC2A4_\uC774\uC0AC_251219":
       row: 10
       col: 0
-    "a5ec5a70-2da9-4526-9707-3e241619daee":
-      row: 9
-      col: 0
-      last_seen: 1785055289103995
-    "/home/lwh/Desktop/hermes_prompt.txt":
+    "/home/lwh/Desktop/desktop_local":
       row: 7
       col: 0
-    "/home/lwh/Desktop/\uCDE8\uBBF8":
-      row: 0
-      col: 1
-    "0492-3AF4":
-      row: 1
+    "/home/lwh/Desktop/OpenCamera":
+      row: 7
       col: 0
-      last_seen: 1786523725772269
-    "F5E1-6BEE":
-      row: 0
-      col: 0
-      last_seen: 1777696655576554
