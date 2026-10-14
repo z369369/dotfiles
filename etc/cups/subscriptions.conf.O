@@ -1,6 +1,6 @@
 # Subscription configuration file for CUPS v2.4.10
 # Written by cupsd
-NextSubscriptionId 1404
+NextSubscriptionId 1406
 <Subscription 1397>
 Events printer-state-changed printer-restarted printer-shutdown printer-stopped printer-added printer-deleted printer-modified job-state-changed job-created job-completed job-stopped job-progress
 Owner lwh

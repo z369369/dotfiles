@@ -12,5 +12,4 @@ fi
 
 /home/lwh/.local/bin/opti_img.sh
 /home/lwh/.local/bin/vault_image_001.sh
-/home/lwh/.local/bin/vault_image_002.sh
 /home/lwh/.local/bin/vault_backup.sh
