@@ -1,11 +1,3 @@
 # Subscription configuration file for CUPS v2.4.10
 # Written by cupsd
-NextSubscriptionId 1408
-<Subscription 1397>
-Events printer-state-changed printer-restarted printer-shutdown printer-stopped printer-added printer-deleted printer-modified job-state-changed job-created job-completed job-stopped job-progress
-Owner lwh
-LeaseDuration 86400
-Interval 0
-ExpirationTime 1792055006
-NextEventId 3
-</Subscription>
+NextSubscriptionId 1414
