@@ -4,8 +4,6 @@
 # @USAGE: move_gemini_img.sh
 # @STATUS: 사용중
 
-# 엄격한 에러 처리 모드 설정
-set -euo pipefail
 
 # 경로 설정
 SRC_DIR="/home/lwh/phone/Pictures"
