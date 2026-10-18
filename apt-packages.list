@@ -48,6 +48,7 @@ dmidecode
 doc-debian
 dosfstools
 dpkg
+dpkg-dev
 e2fsprogs
 engrampa
 ethtool
@@ -281,6 +282,7 @@ sensible-utils
 shim-signed
 smartmontools
 snapper
+squashfs-tools
 sqv
 synaptic
 syncthing
