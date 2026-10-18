@@ -1,3 +1,4 @@
+ai.storyteller.photocraft
 com.axosoft.GitKraken
 com.belmoussaoui.Decoder
 com.github.jeromerobert.pdfarranger
@@ -33,7 +34,6 @@ org.inkscape.Inkscape
 org.kde.isoimagewriter
 org.kde.kdenlive
 org.kde.kolourpaint
-org.kde.krita
 org.libreoffice.LibreOffice
 org.libretro.RetroArch
 org.recoll.recoll

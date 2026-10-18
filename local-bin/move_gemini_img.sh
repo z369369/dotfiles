@@ -39,4 +39,4 @@ for file in "${SRC_DIR}"/*.{jpg,jpeg,png,webp,avif,gif}; do
     echo "이동 완료: $(basename "${file}") -> ${new_filename}"
 done
 
-echo "모든 이미지 이동 작업이 완료되었습니다."
+echo "gemini 이미지 이동 작업이 완료되었습니다."
