@@ -4,10 +4,12 @@
 # @USAGE: vault_image.sh
 # @STATUS: 사용중
 
+SUB_DIR="${1:-001_lwh}"
+
 # 1. 경로 설정
-SRC_DIR="/home/lwh/phone/Documents/001_lwh/zz_hub/attach"
-DEST_DIR="/home/lwh/phone/Pictures/힣001_lwh"
-NOTES_DIR="/home/lwh/phone/Documents/001_lwh"
+SRC_DIR="/home/lwh/phone/Documents/${SUB_DIR}/zz_hub/attach"
+DEST_DIR="/home/lwh/phone/Pictures/힣${SUB_DIR}"
+NOTES_DIR="/home/lwh/phone/Documents/${SUB_DIR}"
 
 # Target 디렉토리 생성
 mkdir -p "$DEST_DIR"

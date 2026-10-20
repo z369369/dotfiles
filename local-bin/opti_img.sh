@@ -1,17 +1,18 @@
 #!/usr/bin/env bash
 # @DESC: 사진 폴더 이미지 사이즈, 용량 최적화
 # @TAGS: image, resizer, optimizer
-# @USAGE: opti_img.sh
+# @USAGE: opti_img.sh {param-vault}
 # @STATUS: 사용중
 
 # ==========================================
 # 1. 설정 항목
 # ==========================================
+SUB_DIR="${1:-001_lwh}"
+
 TARGET_DIRS=(
     "/home/lwh/phone/DCIM"
     "/home/lwh/phone/Pictures"
-    "/home/lwh/phone/Documents/001_lwh/zz_hub/attach"
-    
+    "/home/lwh/phone/Documents/${SUB_DIR}/zz_hub/attach"
 )
 
 # 기준 용량 (700KB = 716800 Bytes)

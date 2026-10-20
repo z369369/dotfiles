@@ -10,6 +10,6 @@ if [ "$1" != "now" ]; then
     sleep 240
 fi
 
-/home/lwh/.local/bin/opti_img.sh
-/home/lwh/.local/bin/vault_image_001.sh
-/home/lwh/.local/bin/vault_backup.sh
+/home/lwh/.local/bin/opti_img.sh 001_lwh
+/home/lwh/.local/bin/vault_image.sh 001_lwh
+/home/lwh/.local/bin/vault_backup.sh 001_lwh
