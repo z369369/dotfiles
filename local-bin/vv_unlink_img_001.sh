@@ -27,8 +27,8 @@
 
 set -uo pipefail
 
-SRC_DIR="/home/lwh/phone/Pictures/힣_Brain_Notes"
-NOTES_DIR="/home/lwh/phone/Documents/001_Brain_Notes"
+SRC_DIR="/home/lwh/phone/Pictures/힣001_lwh"
+NOTES_DIR="/home/lwh/phone/Documents/001_lwh"
 BACKUP_DIR="$SRC_DIR/backup"
 echo $BACKUP_DIR;
 exit 1

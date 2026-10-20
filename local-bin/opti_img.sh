@@ -10,7 +10,7 @@
 TARGET_DIRS=(
     "/home/lwh/phone/DCIM"
     "/home/lwh/phone/Pictures"
-    "/home/lwh/phone/Documents/001_Brain_Notes/zz_hub/attach"
+    "/home/lwh/phone/Documents/001_lwh/zz_hub/attach"
     
 )
 

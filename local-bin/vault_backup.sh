@@ -10,7 +10,7 @@
 
 # 백업 대상 폴더 배열 (추후 폴더 추가 가능)
 TARGET_DIRS=(
-    "/home/lwh/Documents/001_Brain_Notes"
+    "/home/lwh/Documents/001_lwh"
 )
 
 # 백업 파일이 저장될 기본 최상위 경로

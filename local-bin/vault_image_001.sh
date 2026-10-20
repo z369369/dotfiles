@@ -5,9 +5,9 @@
 # @STATUS: 사용중
 
 # 1. 경로 설정
-SRC_DIR="/home/lwh/phone/Documents/001_Brain_Notes/zz_hub/attach"
-DEST_DIR="/home/lwh/phone/Pictures/힣_Brain_Notes"
-NOTES_DIR="/home/lwh/phone/Documents/001_Brain_Notes"
+SRC_DIR="/home/lwh/phone/Documents/001_lwh/zz_hub/attach"
+DEST_DIR="/home/lwh/phone/Pictures/힣001_lwh"
+NOTES_DIR="/home/lwh/phone/Documents/001_lwh"
 
 # Target 디렉토리 생성
 mkdir -p "$DEST_DIR"
@@ -39,7 +39,7 @@ if [ -d "$SRC_DIR" ]; then
             BEGIN { $esc_orig = quotemeta($old_fname); }
             
             # 패턴 A: 절대경로 형태 매칭 및 치환
-            s|/home/lwh/Documents/001_Brain_Notes/zz_hub/attach/$esc_orig(?![a-zA-Z0-9_\.])|group:img/$new_fname|g;
+            s|/home/lwh/Documents/001_lwh/zz_hub/attach/$esc_orig(?![a-zA-Z0-9_\.])|group:img/$new_fname|g;
             
             # 패턴 B: 단일 파일명 형태 완전 일치 매칭 (뒤에 글자/확장자가 이어지는 경우 제외)
             s|(?<!group:img/)(?<![a-zA-Z0-9_\./])$esc_orig(?![a-zA-Z0-9_\.])|group:img/$new_fname|g;

@@ -4,7 +4,7 @@
 # @USAGE: vv_print_duplicate.sh [볼트경로] [임계값%]
 # @STATUS: 사용중
 
-VAULT_DIR="${1:-/home/lwh/phone/Documents/001_Brain_Notes}"
+VAULT_DIR="${1:-/home/lwh/phone/Documents/001_lwh}"
 THRESHOLD="${2:-90}"
 MIN_WORDS=5          # 이보다 단어가 적은 파일은 제외 (오탐 방지)
 
