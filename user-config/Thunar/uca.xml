@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <actions>
 <action>
+	<icon>org.xfce.terminalemulator</icon>
+	<name>run as root</name>
+	<submenu></submenu>
+	<unique-id>1792499273986721-1</unique-id>
+	<command>pkexec env DISPLAY=$DISPLAY XAUTHORITY=$XAUTHORITY %f</command>
+	<description></description>
+	<range></range>
+	<patterns>*.AppImage</patterns>
+	<other-files/>
+</action>
+<action>
 	<icon>utilities-terminal</icon>
 	<name>이 위치에서 터미널 열기</name>
 	<submenu></submenu>
