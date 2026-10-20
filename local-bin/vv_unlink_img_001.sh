@@ -29,8 +29,9 @@ set -uo pipefail
 
 SRC_DIR="/home/lwh/phone/Pictures/힣_Brain_Notes"
 NOTES_DIR="/home/lwh/phone/Documents/001_Brain_Notes"
-BACKUP_DIR="/home/lwh/phone/Pictures/힣_Brain_Notes/backup"
-
+BACKUP_DIR="$SRC_DIR/backup"
+echo $BACKUP_DIR;
+exit 1
 # ---- 사전 검사 ----
 if [ ! -d "$SRC_DIR" ]; then
     echo "오류: SRC_DIR 폴더가 없습니다 -> $SRC_DIR"
