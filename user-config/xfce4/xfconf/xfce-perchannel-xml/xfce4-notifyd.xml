@@ -9,6 +9,7 @@
       <value type="string" value="firefox-esr"/>
       <value type="string" value="Hermes"/>
       <value type="string" value="interpreter"/>
+      <value type="string" value="it.mijorus.gearlever"/>
       <value type="string" value="notify-send"/>
       <value type="string" value="org.freedesktop.network-manager-applet"/>
       <value type="string" value="org.xfce.Thunar"/>

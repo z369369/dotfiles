@@ -62,6 +62,7 @@
     <property name="plugin-6" type="string" value="systray">
       <property name="square-icons" type="bool" value="false"/>
       <property name="known-items" type="array">
+        <value type="string" value="artcraft-launcher"/>
         <value type="string" value="stacer"/>
         <value type="string" value="vlc"/>
         <value type="string" value="heroic_status_icon_1"/>
@@ -183,16 +184,16 @@
       <property name="profile-shape" type="int" value="2"/>
       <property name="button-single-row" type="bool" value="true"/>
       <property name="recent" type="array">
-        <value type="string" value="xfce-session-settings.desktop"/>
+        <value type="string" value="xfce4-notes.desktop"/>
+        <value type="string" value="btrfs-assistant.desktop"/>
         <value type="string" value="it.mijorus.gearlever.desktop"/>
+        <value type="string" value="xfce-session-settings.desktop"/>
         <value type="string" value="photocraft.desktop"/>
         <value type="string" value="io.github.flattool.Warehouse.desktop"/>
         <value type="string" value="com.valvesoftware.Steam.desktop"/>
         <value type="string" value="io.github.giantpinkrobots.flatsweep.desktop"/>
         <value type="string" value="synaptic.desktop"/>
         <value type="string" value="google-chrome.desktop"/>
-        <value type="string" value="org.libreoffice.LibreOffice.writer.desktop"/>
-        <value type="string" value="btrfs-assistant.desktop"/>
       </property>
       <property name="favorites" type="array">
         <value type="string" value="xfce4-web-browser.desktop"/>
