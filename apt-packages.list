@@ -294,7 +294,6 @@ sysvinit-utils
 tango-icon-theme
 tar
 traceroute
-trash-cli
 tzdata
 ucf
 udev
@@ -309,7 +308,6 @@ wget
 whiptail
 wireplumber
 wtmpdb
-xclip
 xdg-desktop-portal-gtk
 xdg-desktop-portal-xapp
 xdg-user-dirs
