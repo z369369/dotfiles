@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+NoDisplay=false
+Terminal=true
+Exec=firefox https://app.diagrams.net/
+Icon=accessories-text-editor-symbolic
+Name=New Desktop
+Comment=
+Categories=
