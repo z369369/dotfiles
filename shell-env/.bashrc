@@ -172,9 +172,6 @@ aupdate() {
     sudo -S apt upgrade < ~/.key
 }
 
-alias rm='trash-put'
-alias tl='trash-list'
-alias trs='trash-restore'
 
 alias aclean='flatpak uninstall --unused -y && cat ~/.key | sudo -S apt autoremove --purge && sudo apt clean'
 
