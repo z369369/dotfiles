@@ -59,8 +59,7 @@ conky.config = {
 -- Variables: https://conky.cc/variables
 conky.text = [[
 ${color orange}${exec curl ifconfig.me} 
-${if_match "${execi 3 xfconf-query -c xfwm4 -p /general/use_compositing}" == "false"}${color red}Game Mode${color}${else}${color green}Compo OFF${color}${endif}
-${execpi 3 ~/.local/bin/toggle_outgoing.sh print}
+${if_match "${execi 3 xfconf-query -c xfwm4 -p /general/use_compositing}" == "false"}${color red}Game Mode${color}${else}${color green}Compo OFF${color}${endif} | ${execpi 3 ~/.local/bin/toggle_outgoing.sh print}
 ${color white}CPU : $cpu% ${cpubar 4}
 RAM : $memperc% ${membar 4}
 Up  : ${upspeed eno1}
