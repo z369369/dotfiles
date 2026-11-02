@@ -4,7 +4,7 @@ LastActiveRenamer=ThunarSbrReplaceRenamer
 
 [ThunarSbrReplaceRenamer]
 CaseSensitive=FALSE
-Replacement=_jpg
-Pattern=.jpg
+Replacement=경찰처리결과_
+Pattern=^
 Regexp=TRUE
 

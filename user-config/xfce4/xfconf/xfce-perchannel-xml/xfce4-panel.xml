@@ -211,6 +211,7 @@
       <property name="command-shutdown" type="string" value="xfce4-session-logout --halt --fast --no-save"/>
       <property name="default-category" type="int" value="1"/>
       <property name="sort-categories" type="bool" value="true"/>
+      <property name="button-icon" type="string" value="emblem-debian-white"/>
     </property>
     <property name="plugin-17" type="string" value="xfce4-mount-plugin"/>
     <property name="plugin-1" type="string" value="notification-plugin"/>
