@@ -244,6 +244,3 @@ export NVM_DIR="$HOME/.config/nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
 
-if [ "$(date +%s)" -ge "$(date -d 2028-08-01 +%s)" ]; then
-    echo "OS new +1 year. Time to upgrade to the new stable release."
-fi
