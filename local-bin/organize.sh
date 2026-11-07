@@ -37,15 +37,11 @@ SRC=(
   ./.fonts ./.icons ./.themes
   ./Desktop ./git ./phone
   ./Downloads/program*
-  ./.local
 )
 
 #nice -n 10 ionice -c3 rsync -aRh --delete \
 nice -n 10 ionice -c3 rsync -aRh --delete \
   --info=stats1,progress2 \
-  --exclude='/.local/share/firefoxpwa/' \
-  --exclude='/.local/share/Trash/' \
-  --exclude='/.local/share/flatpak/' \
   --exclude='/.config/*/Cache/' \
   --exclude='/.config/*/Code Cache/' \
   --exclude='/.config/*/GPUCache/' \
