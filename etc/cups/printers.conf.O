@@ -11,7 +11,7 @@ MakeModel Samsung M262x 282x Series
 DeviceURI usb://Samsung/M262x%20282x%20Series?serial=ZD17B8GJ1B0034H
 State Stopped
 StateMessage Unplugged or turned off
-StateTime 1791428878
+StateTime 1794200826
 ConfigTime 1778054958
 Reason paused
 Type 4180

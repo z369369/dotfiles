@@ -4,6 +4,7 @@
   <property name="applications" type="empty">
     <property name="known_applications" type="array">
       <value type="string" value="antigravity"/>
+      <value type="string" value="ArtCraft Launcher"/>
       <value type="string" value="blueman"/>
       <value type="string" value="Firefox"/>
       <value type="string" value="firefox-esr"/>
