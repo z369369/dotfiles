@@ -184,6 +184,8 @@
       <property name="profile-shape" type="int" value="2"/>
       <property name="button-single-row" type="bool" value="true"/>
       <property name="recent" type="array">
+        <value type="string" value="io.github.flattool.Warehouse.desktop"/>
+        <value type="string" value="it.mijorus.gearlever.desktop"/>
         <value type="string" value="xfce-session-settings.desktop"/>
         <value type="string" value="org.videolan.VLC.desktop"/>
         <value type="string" value="org.libreoffice.LibreOffice.writer.desktop"/>
@@ -192,8 +194,6 @@
         <value type="string" value="krita.desktop"/>
         <value type="string" value="stacer.desktop"/>
         <value type="string" value="io.github.giantpinkrobots.flatsweep.desktop"/>
-        <value type="string" value="artcraft_launcher.desktop"/>
-        <value type="string" value="it.mijorus.gearlever.desktop"/>
       </property>
       <property name="favorites" type="array">
         <value type="string" value="xfce4-web-browser.desktop"/>
