@@ -15,8 +15,8 @@ set -euo pipefail
 # ------------------------------------------------------------------------------
 # 설정
 # ------------------------------------------------------------------------------
-NOTES_DIR="/home/lwh/Documents/001_Brain_Notes"
-IMAGES_DIR="/home/lwh/Pictures/힣_Brain_Notes"
+NOTES_DIR="/home/lwh/Documents/001_lwh"
+IMAGES_DIR="/home/lwh/Pictures/힣001_lwh"
 
 # 랜덤 문자열 앞부분 길이 (랜덤N자 + _ + 14자 타임스탬프 = 총 N+15자)
 RANDOM_PREFIX_LENGTH=12

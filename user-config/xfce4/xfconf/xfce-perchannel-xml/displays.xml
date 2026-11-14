@@ -1,7 +1,7 @@
 <?xml version="1.1" encoding="UTF-8"?>
 
 <channel name="displays" version="1.0">
-  <property name="ActiveProfile" type="string" value="Default"/>
+  <property name="ActiveProfile" type="string" value="Temp"/>
   <property name="Fallback" type="empty">
     <property name="eDP-1" type="string" value="랩톱">
       <property name="Active" type="bool" value="true"/>

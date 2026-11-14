@@ -172,6 +172,18 @@ aupdate() {
     sudo -S apt upgrade < ~/.key
 }
 
+scale() {
+    local val="${1:-1.0}"
+    xrandr --output HDMI-A-0 --scale "${val}x${val}"
+
+     # 화면 배율 변경 후 Conky 재시작하여 위치 재조정
+    if pgrep -x "conky" > /dev/null; then
+        killall conky
+        sleep 0.5
+        conky &> /dev/null &
+    fi
+
+}
 
 alias aclean='flatpak uninstall --unused -y && cat ~/.key | sudo -S apt autoremove --purge && sudo apt clean'
 
@@ -208,6 +220,7 @@ alias vinit='rm -rf .venv | python3 -m venv .venv'
 alias venv='rm -rf .venv | python3 -m venv .venv'
 alias vin='source ./.venv/bin/activate'
 alias vout='deactivate'
+
 
 alias fixhangul='export GTK_IM_MODULE=fcitx5; export QT_IM_MODULE=fcitx5; export XMODIFIERS=@im=fcitx5; killall fcitx5 fcitx 2>/dev/null; fcitx5 -d -r > /dev/null 2>&1 & echo "한글 입력기(Fcitx5)를 재시작했습니다."' 
 # -----------------------------------------------------
