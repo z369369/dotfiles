@@ -37,7 +37,8 @@ MIN_LEN=2
 RANDOM_PREFIX_LENGTH=12
 
 # 로그 파일 (스크립트와 같은 위치). 빈 문자열이면 파일 로그 비활성화
-LOG_FILE="${LOG_FILE-$(dirname "$0")/rename_images.log}"
+#LOG_FILE="${LOG_FILE-$(dirname "$0")/rename_images.log}"
+LOG_FILE=
 
 DRY_RUN=0
 case "${1:-}" in
