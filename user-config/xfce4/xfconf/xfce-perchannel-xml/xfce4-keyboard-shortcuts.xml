@@ -46,7 +46,6 @@
       <property name="XF86Display" type="string" value="xfce4-display-settings --minimal"/>
       <property name="override" type="bool" value="true"/>
       <property name="&lt;Super&gt;g" type="string" value="mousepad"/>
-      <property name="&lt;Super&gt;w" type="string" value="exo-open --launch WebBrowser"/>
       <property name="&lt;Super&gt;t" type="string" value="exo-open --launch TerminalEmulator"/>
       <property name="&lt;Super&gt;b" type="string" value="/home/lwh/Desktop/bin/toggle_bluetooth.sh"/>
       <property name="&lt;Super&gt;l" type="string" value="xfce4-session-logout"/>
@@ -57,6 +56,7 @@
       <property name="&lt;Super&gt;f" type="string" value="/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=recoll org.recoll.recoll"/>
       <property name="&lt;Super&gt;grave" type="string" value="mousepad /home/lwh/.bashrc"/>
       <property name="Print" type="string" value="xfce4-screenshooter -r"/>
+      <property name="&lt;Super&gt;q" type="string" value="xfce4-appfinder"/>
     </property>
   </property>
   <property name="xfwm4" type="empty">
