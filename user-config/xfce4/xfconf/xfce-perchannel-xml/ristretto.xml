@@ -15,6 +15,6 @@
     </property>
   </property>
   <property name="image" type="empty">
-    <property name="default-zoom" type="int" value="0"/>
+    <property name="default-zoom" type="int" value="-2"/>
   </property>
 </channel>

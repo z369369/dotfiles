@@ -23,6 +23,7 @@ busybox
 bzip2
 ca-certificates
 caffeine
+clamav
 code
 color-picker
 conky-all

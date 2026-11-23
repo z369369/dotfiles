@@ -57,6 +57,9 @@ configs:
     "/home/lwh/Desktop/Qwen3.5-4B-Q4_K_M.gguf":
       row: 6
       col: 0
+    "/home/lwh/Desktop/11":
+      row: 5
+      col: 0
     "/home/lwh/Desktop/gemini_restore.sh":
       row: 6
       col: 0

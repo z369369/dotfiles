@@ -32,7 +32,8 @@
   </property>
   <property name="date-time-custom-format" type="string" value="%a %H:%M:%S"/>
   <property name="gauge-ignores-dnd" type="bool" value="false"/>
-  <property name="theme" type="string" value="Bright"/>
+  <property name="theme" type="string" value="XP-Balloon"/>
   <property name="min-width-enabled" type="bool" value="false"/>
   <property name="initial-opacity" type="double" value="1"/>
+  <property name="show-text-with-gauge" type="bool" value="false"/>
 </channel>

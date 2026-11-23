@@ -191,7 +191,7 @@ alias bat='batcat --style=plain'
 alias bslist='find ~/.local/bin -maxdepth 1 -type f -executable | sort -r | fzf'
 alias c='clear'
 alias cat='batcat --style=plain'
-
+alias cscan='clamscan -r -i --move=/home/lwh/Public ~/phone ~/git ~/Downloads > /home/lwh/.local/bin/log/clamav.log 2>&1 &'
 alias df='pydf'
 alias du='ncdu -x'
 alias ee='mousepad'

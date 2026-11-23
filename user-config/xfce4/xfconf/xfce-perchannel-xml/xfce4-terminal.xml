@@ -28,4 +28,5 @@
   <property name="misc-new-tab-adjacent" type="bool" value="false"/>
   <property name="misc-search-dialog-opacity" type="uint" value="100"/>
   <property name="misc-show-unsafe-paste-dialog" type="bool" value="true"/>
+  <property name="font-use-system" type="bool" value="false"/>
 </channel>
