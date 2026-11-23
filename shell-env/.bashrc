@@ -185,13 +185,24 @@ scale() {
 
 }
 
+cscan() {
+    clamscan -r -i --move=/home/lwh/Public \
+        --max-filesize=100M --max-scansize=200M \
+        --exclude='\.(mp4|mkv|avi|mov|iso|img|qcow2|vdi)$' \
+        --exclude-dir='/\.git(/|$)' \
+        --exclude-dir='/node_modules(/|$)' \
+        --exclude-dir='/venv(/|$)' \
+        ~/phone ~/git ~/Downloads > /home/lwh/.local/bin/log/clamav.log 2>&1 &
+}
+
+
 alias aclean='flatpak uninstall --unused -y && cat ~/.key | sudo -S apt autoremove --purge && sudo apt clean'
 
 alias bat='batcat --style=plain'
 alias bslist='find ~/.local/bin -maxdepth 1 -type f -executable | sort -r | fzf'
 alias c='clear'
 alias cat='batcat --style=plain'
-alias cscan='clamscan -r -i --move=/home/lwh/Public ~/phone ~/git ~/Downloads > /home/lwh/.local/bin/log/clamav.log 2>&1 &'
+
 alias df='pydf'
 alias du='ncdu -x'
 alias ee='mousepad'
@@ -220,7 +231,7 @@ alias vinit='rm -rf .venv | python3 -m venv .venv'
 alias venv='rm -rf .venv | python3 -m venv .venv'
 alias vin='source ./.venv/bin/activate'
 alias vout='deactivate'
-
+alias wallwall='for i in {1..10}; do bing_wall.sh; sleep 3; done'
 
 alias fixhangul='export GTK_IM_MODULE=fcitx5; export QT_IM_MODULE=fcitx5; export XMODIFIERS=@im=fcitx5; killall fcitx5 fcitx 2>/dev/null; fcitx5 -d -r > /dev/null 2>&1 & echo "한글 입력기(Fcitx5)를 재시작했습니다."' 
 # -----------------------------------------------------
