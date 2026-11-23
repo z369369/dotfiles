@@ -231,7 +231,7 @@ alias vinit='rm -rf .venv | python3 -m venv .venv'
 alias venv='rm -rf .venv | python3 -m venv .venv'
 alias vin='source ./.venv/bin/activate'
 alias vout='deactivate'
-alias wallwall='for i in {1..10}; do bing_wall.sh; sleep 3; done'
+alias walwal='for i in {1..10}; do bing_wall.sh; sleep 3; done'
 
 alias fixhangul='export GTK_IM_MODULE=fcitx5; export QT_IM_MODULE=fcitx5; export XMODIFIERS=@im=fcitx5; killall fcitx5 fcitx 2>/dev/null; fcitx5 -d -r > /dev/null 2>&1 & echo "한글 입력기(Fcitx5)를 재시작했습니다."' 
 # -----------------------------------------------------
