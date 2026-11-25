@@ -32,6 +32,7 @@ org.inkscape.Inkscape
 org.kde.isoimagewriter
 org.kde.kdenlive
 org.kde.kolourpaint
+org.keepassxc.KeePassXC
 org.libreoffice.LibreOffice
 org.libretro.RetroArch
 org.recoll.recoll

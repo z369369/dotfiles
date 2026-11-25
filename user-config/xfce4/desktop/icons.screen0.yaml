@@ -102,8 +102,8 @@ configs:
       row: 1
       col: 0
       last_seen: 1786523734922990
-    "/home/lwh/Desktop/Screen recordings":
-      row: 8
+    "/home/lwh/Desktop/Recordings":
+      row: 0
       col: 0
     "F5E1-6BEE":
       row: 0
@@ -124,6 +124,9 @@ configs:
     "/home/lwh/Desktop/Camera":
       row: 0
       col: 0
+    "/home/lwh/Desktop/Screen recordings":
+      row: 8
+      col: 0
     "0492-3AF4":
       row: 1
       col: 0
@@ -139,9 +142,13 @@ configs:
       row: 0
       col: 0
       last_seen: 1777695255362344
-    "/home/lwh/Desktop/Recordings":
-      row: 0
+    "6506-0BF9":
+      row: 5
       col: 0
+      last_seen: 1795581231135160
+    "/home/lwh/Desktop/\uCDE8\uBBF8":
+      row: 0
+      col: 1
     "trash:///":
       row: 2
       col: 0
@@ -152,9 +159,6 @@ configs:
     "/home/lwh/Desktop/desktop_usr":
       row: 4
       col: 0
-    "/home/lwh/Desktop/\uCDE8\uBBF8":
-      row: 0
-      col: 1
     "/home/lwh/Desktop/\uC2A4\uD06C\uB9B0\uC0F7_2026-10-02_14-46-58.png":
       row: 0
       col: 0
@@ -220,9 +224,16 @@ configs:
     "/home/lwh/Desktop/crontab":
       row: 2
       col: 0
+    "/home/lwh/Desktop/\uC774\uC6D0\uD638_\uB3D9\uC0DD\uC8FC\uC18C_261122.docx":
+      row: 5
+      col: 0
     "/home/lwh/Desktop/\uCC9C\uC548_\uC5D0\uB374\uD558\uC6B0\uC2A4_\uC774\uC0AC_251219":
       row: 10
       col: 0
+    "7C0773FC4AB8F9AB":
+      row: 5
+      col: 0
+      last_seen: 1795581453469367
     "/home/lwh/Desktop/desktop_local":
       row: 3
       col: 0
