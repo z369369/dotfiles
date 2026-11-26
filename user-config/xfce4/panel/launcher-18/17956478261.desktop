@@ -1,0 +1,19 @@
+[Desktop Entry]
+Name=KeePassXC
+GenericName=Password Manager
+GenericName[ko]=암호 관리자
+Comment=Community-driven port of the Windows application “KeePass Password Safe”
+Exec=/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=keepassxc --file-forwarding org.keepassxc.KeePassXC @@ %f @@
+Icon=org.keepassxc.KeePassXC
+StartupWMClass=keepassxc
+StartupNotify=false
+Terminal=false
+Type=Application
+Version=1.5
+Categories=Utility;Security;Qt;
+MimeType=application/x-keepass2;
+SingleMainWindow=true
+X-GNOME-SingleWindow=true
+Keywords=security;privacy;password-manager;yubikey;password;keepass;
+X-Flatpak=org.keepassxc.KeePassXC
+X-XFCE-Source=file:///home/lwh/.local/share/flatpak/app/org.keepassxc.KeePassXC/x86_64/stable/eddd9c1e1d5b574bfb550ac50c69d55a9ec219e6492e4ae2a5a4e00009329f0f/export/share/applications/org.keepassxc.KeePassXC.desktop

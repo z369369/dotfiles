@@ -20,6 +20,7 @@
         <value type="int" value="12"/>
         <value type="int" value="9"/>
         <value type="int" value="3"/>
+        <value type="int" value="18"/>
         <value type="int" value="14"/>
         <value type="int" value="21"/>
         <value type="int" value="22"/>
@@ -184,6 +185,7 @@
       <property name="profile-shape" type="int" value="2"/>
       <property name="button-single-row" type="bool" value="true"/>
       <property name="recent" type="array">
+        <value type="string" value="com.valvesoftware.Steam.desktop"/>
         <value type="string" value="org.keepassxc.KeePassXC.desktop"/>
         <value type="string" value="it.mijorus.gearlever.desktop"/>
         <value type="string" value="org.gnome.DiskUtility.desktop"/>
@@ -193,7 +195,6 @@
         <value type="string" value="xfce4-sensors.desktop"/>
         <value type="string" value="xfce4-mime-settings.desktop"/>
         <value type="string" value="xfce4-about.desktop"/>
-        <value type="string" value="com.valvesoftware.Steam.desktop"/>
       </property>
       <property name="favorites" type="array">
         <value type="string" value="xfce4-web-browser.desktop"/>
@@ -262,6 +263,11 @@
     <property name="plugin-2" type="string" value="launcher">
       <property name="items" type="array">
         <value type="string" value="17909185211.desktop"/>
+      </property>
+    </property>
+    <property name="plugin-18" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="17956478261.desktop"/>
       </property>
     </property>
   </property>
